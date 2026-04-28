@@ -39,6 +39,7 @@ Represents **movement cost for honeybee dispersal across landscapes**
 
 ### 🌸 Flowering Index (FI)
 A phenology-derived metric of floral resource availability based on MODIS NDVI time series.
+(File was too big)- Reachout to meltusquinto@gmail.com for the raster
 
 Key characteristics:
 - Captures seasonal flowering pulses
